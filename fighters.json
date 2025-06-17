@@ -1,0 +1,50 @@
+{
+  "topuria": {
+    "name": "Ilia Topuria",
+    "image": "https://media.ufcstats.com/fighter-images/92db927b-2a4e-4db8-a640-2dd2d8ef6e98_Ilia_Topuria.png",
+    "stats": {
+      "Categoria": "Featherweight",
+      "Vittorie": 15,
+      "Sconfitte": 0,
+      "KO": 5,
+      "Team": "Climent Club"
+    },
+    "specialties": [
+      "striking",
+      "Brazilian Jiu-Jitsu"
+    ],
+    "debut": 2020
+  },
+  "poirier": {
+    "name": "Dustin Poirier",
+    "image": "https://media.ufcstats.com/fighter-images/f1e4a1fd-e848-420c-9f96-1c9c3dfb7b1d_dustin-poirier.png",
+    "stats": {
+      "Categoria": "Lightweight",
+      "Vittorie": 29,
+      "Sconfitte": 8,
+      "KO": 14,
+      "Team": "American Top Team"
+    },
+    "specialties": [
+      "boxing",
+      "dirty boxing"
+    ],
+    "debut": 2011
+  },
+  "pereira": {
+    "name": "Alex Pereira",
+    "image": "https://media.ufcstats.com/fighter-images/7273e3f4-3a44-4d6f-8a80-cc3c6b93ed8e-alex-pereira.png",
+    "stats": {
+      "Categoria": "Light Heavyweight",
+      "Vittorie": 10,
+      "Sconfitte": 2,
+      "KO": 7,
+      "Team": "Teixeira MMA & Fitness"
+    },
+    "specialties": [
+      "kickboxing",
+      "power striking"
+    ],
+    "debut": 2021
+  }
+}
