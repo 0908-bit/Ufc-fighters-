@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #fff;
+  margin: 0;
+  padding: 1rem;
+}
+h1 {
+  text-align: center;
+  color: #e10600;
+}
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+#fighters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.fighter-card {
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.1);
+}
+.fighter-card img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+.fav-star {
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: #aaa;
+}
+.fav-star.favorited {
+  color: gold;
+}
+select {
+  padding: 0.5rem;
+  margin: 1rem;
+  font-size: 1rem;
+}
